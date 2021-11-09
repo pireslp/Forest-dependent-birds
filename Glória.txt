@@ -1,0 +1,37 @@
+	m1	m4	m16	m6	m3	m10	m13	m5	m2	m7	m8	m9	m11	m12	m14	m15									
+Antilophia_galeata	15	10	13	8	5	0	3	2	1	1	0	0	1	0	0	1									
+Saltator_maximus	3	2	1	2	3	0	0	0	0	0	0	0	0	0	0	0									
+Turdus_leucomelas	1	2	0	0	1	0	0	0	0	0	1	1	0	1	0	0									
+Tangara_cayana	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0									
+Saltator_similis	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0									
+Elaenia_mesoleuca	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0									
+Eucometis_penicillata	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0									
+Turdus_subalaris	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									

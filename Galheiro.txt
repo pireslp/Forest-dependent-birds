@@ -1,0 +1,14 @@
+	m3	m10	m12	m13	m14	m19	m1	m6	m2	m4	m5	m7	m8	m9	m11	m15	m16	m17	m18	m20	m21	m22	
+Antilophia_galeata	9	3	3	2	0	1	0	1	1	0	0	1	1	1	0	0	0	0	0	1	1	1	
+Elaenia_parvirostris	5	10	0	4	2	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	
+Elaenia_mesoleuca	6	6	1	1	1	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	
+Neopelma_pallescens	6	1	0	0	0	0	0	0	0	1	1	0	0	0	0	1	0	0	0	0	0	0	
+Turdus_subalaris	3	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Tachyphonus_coronatus	2	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	
+Schiffornis_virescens	0	0	2	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Eucometis_penicillata	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Ramphastos_toco	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	
+Trichothraupis_melanops	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Tangara_cayana	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Turdus_albicollis	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+																							

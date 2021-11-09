@@ -1,0 +1,6 @@
+	m1	m8	m16	m3	m4	m14	m5	m6	m7	m2	m9	m10	m11	m12	m13	m15	m17	
+Pipra_fasciicauda	21	2	1	0	0	2	1	0	1	1	0	1	0	0	1	1	0	
+Antilophia_galeata	1	0	1	1	1	0	0	1	0	0	0	0	0	0	0	0	1	
+Turdus_leucomelas	0	1	0	1	1	0	0	0	0	0	1	0	0	0	0	0	0	
+Saltator_maximus	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+																		

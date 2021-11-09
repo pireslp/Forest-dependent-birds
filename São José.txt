@@ -1,0 +1,6 @@
+	Morfo_1	Morfo_7	Morfo_2	Morfo_12	Morfo_4	Morfo_9	Morfo_10	Morfo_3	Morfo_5	Morfo_8	Morfo_6	Morfo_13
+Antilophia_galeata	4	3	2	3	1	1	2	0	1	0	1	1
+Turdus_leucomelas	3	0	2	0	0	0	0	0	0	0	0	0
+Saltator_maximus	1	1	0	0	0	1	0	1	0	1	0	0
+Eucometis_penicillata	1	1	0	0	1	0	0	0	0	0	0	0
+Saltator_similis	1	0	0	0	0	0	0	0	0	0	0	0
